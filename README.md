@@ -1,3 +1,4 @@
+Backend and web developer focused on Python, Flask, and databases. I’m passionate about optimizing processes, debugging, and scaling applications with clean, maintainable architecture.
 ```python
 class Developer():
     
@@ -19,6 +20,7 @@ class Developer():
     <img src="https://img.shields.io/badge/flask-3776ab?logo=flask&logoColor=white">
     <img src="https://img.shields.io/badge/sqlalchemy-343434?logo=sqlalchemy&logoColor=white">
     <img src="https://img.shields.io/badge/postgresql-7995ea?logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/git-ee513b?logo=git&logoColor=white">
     
     
 </div>
