@@ -5,7 +5,8 @@ class Developer():
   def __init__(self):
     self.name = "David Vera"
     self.username = "dsveraa"
-    self.location = "Santaigo, Chile"
+    self.city = "Santaigo"
+    self.country = "Chile"
     self.instagram = "@ddssvvaa"
     self.web = "www.davidvera.cl"
   
@@ -21,6 +22,4 @@ class Developer():
     <img src="https://img.shields.io/badge/sqlalchemy-343434?logo=sqlalchemy&logoColor=white">
     <img src="https://img.shields.io/badge/postgresql-7995ea?logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/git-ee513b?logo=git&logoColor=white">
-    
-    
 </div>
