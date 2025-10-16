@@ -12,13 +12,13 @@ class Developer():
     return self.name
 ```
 <div>
-    <img src="https://img.shields.io/badge/html-grey?style=for-the-badge&logo=html5">
-    <img src="https://img.shields.io/badge/css-grey?style=for-the-badge&logo=css">
-    <img src="https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript">
-    <img src="https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python">
-    <img src="https://img.shields.io/badge/flask-grey?style=for-the-badge&logo=flask">
-    <img src="https://img.shields.io/badge/posgresql-white?style=for-the-badge&logo=postgresql">
-    <img src="https://img.shields.io/badge/slqalchemy-black?style=for-the-badge&logo=sqlalchemy">
+    <img src="https://img.shields.io/badge/html-e34f26?logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/css-1771b4?logo=css&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-f7df1e?logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/python-3776ab?logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/flask-3776ab?logo=flask&logoColor=white">
+    <img src="https://img.shields.io/badge/sqlalchemy-343434?logo=sqlalchemy&logoColor=white">
+    <img src="https://img.shields.io/badge/postgresql-7995ea?logo=postgresql&logoColor=white">
     
     
 </div>
